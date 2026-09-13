@@ -1,51 +1,59 @@
 <h1 align="center">Hi, I'm Prince Raj 👋</h1>
 
 <p align="center">
-B.Tech Computer Science student at NIT Delhi — building full-stack systems
-with machine learning at the core.
+B.Tech Computer Science Student, NIT Delhi
+</p>
+
+<p align="center">
+<a href="https://github.com/princerajcodewithme">
+<img src="https://img.shields.io/badge/GitHub-princerajcodewithme-181717?style=flat&logo=github" />
+</a>
 </p>
 
 ---
 
-### About Me
+### 🚀 About Me
 
-I like building things end-to-end — from training the model, to writing the
-backend that serves it, to the interface someone actually interacts with.
-Most of my projects sit at the intersection of **full-stack development**,
-**machine learning**, and **data engineering**, usually built alongside
-classmates as part of coursework or independent exploration.
+I'm a Computer Science student who enjoys building complete, working
+systems — from training a model, to writing the backend that serves it, to
+the interface someone actually uses. My work spans **full-stack
+development**, **machine learning**, and **data engineering**, and I like
+projects that combine all three.
 
-Outside of code, I have a genuine interest in **literature and poetry**, and
-a personal connection to **Baraini, Chatra, Jharkhand** — a place I'd like to
-map and represent digitally someday.
-
-### What I've Been Building
-
-**🚔 [SafeWatch](https://github.com/princerajcodewithme/safewatch)**
-An AI-powered women-safety surveillance system, built with a team.
-Integrates YOLOv8n and custom-trained MobileNetV2 models for real-time
-detection, with a Flask + React.js stack and Fast2SMS for alerting.
-
-**🚗 [PlateVision-AI](https://github.com/princerajcodewithme/PlateVision-AI)**
-An Automatic Number Plate Recognition system with two CNNs trained from
-scratch/transfer-learned — one for plate localization, one for character
-recognition — wrapped in a FastAPI backend and a live monitoring dashboard
-with webcam and upload support.
-
-**✍️ Shayar**
-A full-stack blogging and community platform for poetry and literature
-lovers, built with React/Vite and a Node.js + Express + PostgreSQL backend,
-with Claude API integration for AI-assisted poetry feedback.
-
-**⚡ Smart Campus Energy Optimizer**
-A real-time campus energy forecasting project using XGBoost and Random
-Forest models, with a Next.js frontend and FastAPI backend.
-
-### Tech I Work With
-
-`Python` · `TensorFlow / Keras` · `OpenCV` · `FastAPI` · `Flask` ·
-`React.js` · `Next.js` · `Node.js` · `PostgreSQL` · `AWS`
+- 🔭 Currently building projects across AI/ML, web development, and applied data engineering
+- 🤝 I enjoy working in teams and collaborating on end-to-end builds
+- 📫 Reach me on [GitHub](https://github.com/princerajcodewithme)
 
 ---
 
-<p align="center"><i>Always building something — usually a few things at once.</i></p>
+### 🛠️ Skills
+
+**Languages**
+`Python` · `JavaScript` · `TypeScript` · `SQL`
+
+**Machine Learning / AI**
+`TensorFlow` · `Keras` · `OpenCV` · `YOLOv8` · `scikit-learn`
+
+**Backend**
+`FastAPI` · `Flask` · `Node.js` · `Express`
+
+**Frontend**
+`React.js` · `Next.js` · `HTML/CSS`
+
+**Databases & Infra**
+`PostgreSQL` · `SQLite` · `AWS` · `Docker`
+
+---
+
+### 💼 Featured Projects
+
+| Project | Description |
+|---|---|
+| 🚗 **[PlateVision-AI](https://github.com/princerajcodewithme/PlateVision-AI)** | Automatic Number Plate Recognition system using two custom-trained CNNs (plate detection + character recognition), a FastAPI backend, and a live monitoring dashboard |
+| 🚔 **[SafeWatch](https://github.com/princerajcodewithme/safewatch)** | AI-powered women-safety surveillance system using YOLOv8 and custom MobileNetV2 models, built with Flask and React |
+| ✍️ **Shayar** | Full-stack blogging platform for poetry and literature, with AI-assisted feedback via the Claude API |
+| ⚡ **Smart Campus Energy Optimizer** | Real-time energy usage forecasting using XGBoost and Random Forest, built with Next.js and FastAPI |
+
+---
+
+<p align="center"><i>Always building something.</i></p>
